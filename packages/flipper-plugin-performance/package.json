@@ -35,7 +35,7 @@
   "author": "Joel Arvidsson",
   "license": "MIT",
   "peerDependencies": {
-    "flipper": "latest"
+    "flipper": "*"
   },
   "devDependencies": {
     "flipper": "0.182.0",
